@@ -1,0 +1,11 @@
+a=10
+b=20
+c=9.0
+print(a+b)
+print(a-b)
+print(b/a)
+print(a*b)
+print(b//c)
+print(b//a)
+print(a**b)
+print(a%b)

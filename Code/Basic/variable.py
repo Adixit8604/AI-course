@@ -10,3 +10,4 @@ d=30
 print(id(c),id(d))
 e="hello"
 print(e)
+
