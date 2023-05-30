@@ -31,8 +31,20 @@ print(1, type(l))
 
 #tuple
 t=(10,20,'hello')
+#t[1]=30
 print( type(t))
 t=(10)
 print(t, type(t))
 
+#dictionary
+d={
+  'course_name':"Python",
+  "course_duration":"2 Month"
+ }
+print(d['course_name'])
+print(d,type(d))
 
+
+#set
+s={10,20,30,10}
+print(s, type(s))
